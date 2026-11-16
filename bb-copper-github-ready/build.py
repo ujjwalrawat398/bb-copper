@@ -63,6 +63,44 @@ paths.append(shell('/reviews/','Customer reviews','''<div class="container secti
 paths.append(shell('/contact/','Contact BB Copper Mathura',f'''<div class="container"><div class="page-head"><span class="eyebrow">WE’D LOVE TO HEAR FROM YOU</span><h1>Let’s talk copper.</h1><p>Product questions, gifting requirements or business enquiries — our team is a message away.</p></div><div class="contact-grid"><div class="contact-card"><h3>Visit us in Mathura</h3><p>{e(S['address'])}</p><h3>Call or WhatsApp</h3><a href="tel:+{S['whatsapp']}">{e(S['phoneDisplay'])}</a><h3>Email us</h3><a href="mailto:{S['email']}">{e(S['email'])}</a><p style="margin-top:25px">Please call ahead to confirm visiting hours.</p><a class="btn" href="{wa}" target="_blank" rel="noopener">Chat on WhatsApp ↗</a></div><div class="map-panel"><span class="eyebrow">FIND US</span><h2>Mathura,<br>Uttar Pradesh.</h2><p>Goverdhan Road · Surya Nagar</p><a class="btn outline" href="{S['googleMapsSearch']}" target="_blank" rel="noopener">Search on Google Maps ↗</a><p class="note">Opens a Maps search. Please confirm the location before travelling.</p></div></div></div>'''))
 (OUT/'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join('<url><loc>'+D+x+'</loc></url>' for x in paths)+'</urlset>')
 (OUT/'robots.txt').write_text('User-agent: *\nAllow: /\nSitemap: '+D+'/sitemap.xml\n')
+cats='\n'.join(f"- [{c['name']}]("+D+f"/categories/{c['id']}/): {c['count']} catalogue designs" for c in C)
+feat='\n'.join(f"- [{p['name']} ({p['code']})]("+D+url(p)+")" for p in [get(x) for x in ['BB-1185','BB-1177','BB-1191','BB-1130']])
+(OUT/'llms.txt').write_text(f'''# BB Copper Products
+
+> BB Copper Products (Divy Enterprises) is a copper-ware manufacturer, exporter and supplier based in Mathura, Uttar Pradesh, India. Established in 2016. The catalogue lists 191 copper designs across 11 collections for household, hospitality and corporate buyers. Prices, capacities, dimensions and minimum order quantities are not published online; ask the team for a quote on WhatsApp.
+
+## Key pages
+
+- [Home]({D}/): Copper ware for everyday living, featured collections and company story.
+- [The copper collection]({D}/products/): All 191 catalogue designs with photos, search and collection filters.
+- [Our story]({D}/about/): Manufacturer and exporter in Mathura since 2016, founded by CEO Vikas.
+- [Contact]({D}/contact/): Address, phone, WhatsApp and email for product and business enquiries.
+- [Customer reviews]({D}/reviews/): Verified customer reviews (none published yet).
+
+## Collections
+
+{cats}
+
+## Featured products
+
+{feat}
+
+## Common questions
+
+- What does BB Copper Products manufacture? BB Copper Products manufactures, exports and supplies copper ware for household, hospitality and corporate sectors. The catalogue includes bottles, mugs, glasses, pots, lota, religious items, tanks, jugs, thali sets and gift sets.
+- Where is BB Copper Products located? {S['address']}. Please contact the team to confirm visiting hours and directions.
+- How do I request a product quotation? Open a product page, enter your name and optionally a quantity or message, then select Get Quote on WhatsApp. Check the prefilled details and press Send in WhatsApp.
+- Are prices, capacities and minimum order quantities available online? Prices, capacities, dimensions and minimum order quantities are not published in this catalogue. Ask the team to confirm the specifications and quote for the item code you choose.
+- Does the enquiry attach a product photo? No. WhatsApp click-to-chat prefills text, not photo attachments. The enquiry includes a product image link when a supplied photo is available, and a link to the product page.
+- Does this website collect or store my enquiry? This static website has no enquiry database. The enquiry fields are used in your browser to prepare a WhatsApp message. When you open WhatsApp, its own privacy terms apply. Hosting providers may process standard access logs.
+
+## Contact
+
+- Visit: {S['address']}
+- WhatsApp / phone: {S['phoneDisplay']}
+- Email: {S['email']}
+- Enquiries: open any product page and use Get Quote on WhatsApp. No prices are listed online.
+''')
 print(f'Built {len(paths)} pages; {len(P)} products; {sum(bool(p["image"]) for p in P)} photos.')
 from visual import apply
 apply(OUT)

@@ -5,7 +5,7 @@
     "name": "Jointless Matt Finish Bottle",
     "category": "bottles",
     "categoryName": "Copper Bottles",
-    "image": null,
+    "image": "/assets/images/BB-1001_jointless-matt-finish-bottle.jpg",
     "variants": []
   },
   {
@@ -14,7 +14,7 @@
     "name": "Jointless Hammered Bottle",
     "category": "bottles",
     "categoryName": "Copper Bottles",
-    "image": null,
+    "image": "/assets/images/BB-1002_jointless-hammered-bottle.jpg",
     "variants": []
   },
   {
@@ -23,7 +23,7 @@
     "name": "Jointless Plain Bottle",
     "category": "bottles",
     "categoryName": "Copper Bottles",
-    "image": null,
+    "image": "/assets/images/BB-1003_jointless-plain-bottle.jpg",
     "variants": []
   },
   {
@@ -32,7 +32,7 @@
     "name": "Joint. Silver Touch Bottle",
     "category": "bottles",
     "categoryName": "Copper Bottles",
-    "image": null,
+    "image": "/assets/images/BB-1004_joint-silver-touch-bottle.jpg",
     "variants": []
   },
   {
@@ -41,7 +41,7 @@
     "name": "Joint. Diamond Hamm. Bottle",
     "category": "bottles",
     "categoryName": "Copper Bottles",
-    "image": null,
+    "image": "/assets/images/BB-1005_joint-diamond-hamm-bottle.jpg",
     "variants": []
   },
   {
@@ -50,7 +50,7 @@
     "name": "Joint. Enamel Meena Bottle",
     "category": "bottles",
     "categoryName": "Copper Bottles",
-    "image": null,
+    "image": "/assets/images/BB-1006_joint-enamel-meena-bottle.jpg",
     "variants": []
   },
   {
@@ -59,7 +59,7 @@
     "name": "Joint. Digital Printed Bottle",
     "category": "bottles",
     "categoryName": "Copper Bottles",
-    "image": null,
+    "image": "/assets/images/BB-1007_joint-digital-printed-bottle.jpg",
     "variants": []
   },
   {
@@ -68,7 +68,7 @@
     "name": "Joint. Glass Dual-Tone Bottle",
     "category": "bottles",
     "categoryName": "Copper Bottles",
-    "image": null,
+    "image": "/assets/images/BB-1008_joint-glass-dual-tone-bottle.jpg",
     "variants": []
   },
   {
@@ -77,7 +77,7 @@
     "name": "Jointless Glass Bottle",
     "category": "bottles",
     "categoryName": "Copper Bottles",
-    "image": null,
+    "image": "/assets/images/BB-1009_jointless-glass-bottle.jpg",
     "variants": []
   },
   {
@@ -86,7 +86,7 @@
     "name": "Jointless Doctor Bottle",
     "category": "bottles",
     "categoryName": "Copper Bottles",
-    "image": null,
+    "image": "/assets/images/BB-1010_jointless-doctor-bottle.jpg",
     "variants": []
   },
   {
@@ -95,7 +95,7 @@
     "name": "Jointless Magic Bottle",
     "category": "bottles",
     "categoryName": "Copper Bottles",
-    "image": null,
+    "image": "/assets/images/BB-1011_jointless-magic-bottle.jpg",
     "variants": []
   },
   {
@@ -104,7 +104,7 @@
     "name": "Joint. Dual-Tone Half Hamm.",
     "category": "bottles",
     "categoryName": "Copper Bottles",
-    "image": null,
+    "image": "/assets/images/BB-1012_joint-dual-tone-half-hamm-bottle.jpg",
     "variants": []
   },
   {
@@ -113,7 +113,7 @@
     "name": "Joint. Dual-Tone Half Bottle",
     "category": "bottles",
     "categoryName": "Copper Bottles",
-    "image": null,
+    "image": "/assets/images/BB-1013_joint-dual-tone-half-bottle.jpg",
     "variants": []
   },
   {
@@ -122,16 +122,16 @@
     "name": "Oreo Steel Bottle",
     "category": "bottles",
     "categoryName": "Copper Bottles",
-    "image": null,
+    "image": "/assets/images/BB-1014_oreo-steel-bottle.jpg",
     "variants": []
   },
   {
     "code": "BB-1015",
     "slug": "bb-1015-bmc-bmc-steel-bottle",
-    "name": "BMC/BMC Steel Bottle",
+    "name": "Bmc Steel Bottle",
     "category": "bottles",
     "categoryName": "Copper Bottles",
-    "image": null,
+    "image": "/assets/images/BB-1015_bmc-steel-bottle.jpg",
     "variants": []
   },
   {
@@ -140,7 +140,7 @@
     "name": "Antique Etching Bottles",
     "category": "bottles",
     "categoryName": "Copper Bottles",
-    "image": null,
+    "image": "/assets/images/BB-1016_antique-etching-bottles.jpg",
     "variants": [
       "Catalogue design variants may be available; ask us to confirm."
     ]
@@ -151,7 +151,7 @@
     "name": "Tower Bottle",
     "category": "bottles",
     "categoryName": "Copper Bottles",
-    "image": null,
+    "image": "/assets/images/BB-1017_tower-bottle.jpg",
     "variants": []
   },
   {
@@ -160,25 +160,25 @@
     "name": "Dual-Tone Sports Bottle",
     "category": "bottles",
     "categoryName": "Copper Bottles",
-    "image": null,
+    "image": "/assets/images/BB-1018_dual-tone-sports-bottle.jpg",
     "variants": []
   },
   {
     "code": "BB-1019",
     "slug": "bb-1019-curve-lalo-diamond-bottle",
-    "name": "Curve Lalo/Diamond Bottle",
+    "name": "Curve Lalo Diamond Bottle",
     "category": "bottles",
     "categoryName": "Copper Bottles",
-    "image": null,
+    "image": "/assets/images/BB-1019_curve-lalo-diamond-bottle.jpg",
     "variants": []
   },
   {
     "code": "BB-1020",
     "slug": "bb-1020-tower-matt-finish-hamm-cross-enamel-bottle",
-    "name": "Tower Matt Finish/Hamm. Cross/Enamel Bottle",
+    "name": "Tower Matt Finish Hamm Cross Enamel Bottle",
     "category": "bottles",
     "categoryName": "Copper Bottles",
-    "image": null,
+    "image": "/assets/images/BB-1020_tower-matt-finish-hamm-cros-enamel-bottle.jpg",
     "variants": [
       "Tower Matt Finish",
       "Hammered Cross",
@@ -191,7 +191,7 @@
     "name": "Crown Bottle",
     "category": "bottles",
     "categoryName": "Copper Bottles",
-    "image": null,
+    "image": "/assets/images/BB-1021_crown-bottle.jpg",
     "variants": []
   },
   {
@@ -200,7 +200,7 @@
     "name": "Matt Finish Bottle",
     "category": "bottles",
     "categoryName": "Copper Bottles",
-    "image": null,
+    "image": "/assets/images/BB-1022_matt-finish-bottle.jpg",
     "variants": [
       "Catalogue design variants"
     ]
@@ -208,10 +208,10 @@
   {
     "code": "BB-1023",
     "slug": "bb-1023-hamm-finish-meena-bottle",
-    "name": "Hamm. Finish/Meena Bottle",
+    "name": "Hamm Finish Meena Bottle",
     "category": "bottles",
     "categoryName": "Copper Bottles",
-    "image": null,
+    "image": "/assets/images/BB-1023_hamm-finish-meena-bottle.jpg",
     "variants": [
       "Hammered Finish",
       "Meena"
@@ -220,10 +220,10 @@
   {
     "code": "BB-1024",
     "slug": "bb-1024-matt-finish-matt-hamm-bottle",
-    "name": "Matt Finish/Matt Hamm. Bottle",
+    "name": "Matt Finish Matt Hamm Bottle",
     "category": "bottles",
     "categoryName": "Copper Bottles",
-    "image": null,
+    "image": "/assets/images/BB-1024_matt-finish-matt-hamm-bottle.jpg",
     "variants": []
   },
   {
@@ -232,7 +232,7 @@
     "name": "Mughlai Bottle",
     "category": "bottles",
     "categoryName": "Copper Bottles",
-    "image": null,
+    "image": "/assets/images/BB-1025_mughlai-bottle.jpg",
     "variants": []
   },
   {
@@ -241,7 +241,7 @@
     "name": "King Bottle",
     "category": "bottles",
     "categoryName": "Copper Bottles",
-    "image": null,
+    "image": "/assets/images/BB-1026_king-bottle.jpg",
     "variants": []
   },
   {
@@ -250,7 +250,7 @@
     "name": "King Steel Bottle",
     "category": "bottles",
     "categoryName": "Copper Bottles",
-    "image": null,
+    "image": "/assets/images/BB-1027_king-steel-bottle.jpg",
     "variants": []
   },
   {
@@ -259,7 +259,7 @@
     "name": "Doctor Bottle",
     "category": "bottles",
     "categoryName": "Copper Bottles",
-    "image": null,
+    "image": "/assets/images/BB-1028_doctor-bottle.jpg",
     "variants": []
   },
   {
@@ -268,7 +268,7 @@
     "name": "S.S. Doctor Bottle",
     "category": "bottles",
     "categoryName": "Copper Bottles",
-    "image": null,
+    "image": "/assets/images/BB-1029_ss-doctor-bottle.jpg",
     "variants": []
   },
   {
@@ -277,7 +277,7 @@
     "name": "Black Etching Printed Bottle",
     "category": "bottles",
     "categoryName": "Copper Bottles",
-    "image": null,
+    "image": "/assets/images/BB-1030_black-etching-printed-bottle.jpg",
     "variants": []
   },
   {
@@ -286,7 +286,7 @@
     "name": "S.S. Copper Bottle",
     "category": "bottles",
     "categoryName": "Copper Bottles",
-    "image": null,
+    "image": "/assets/images/BB-1031_ss-copper-bottle.jpg",
     "variants": []
   },
   {
@@ -295,7 +295,7 @@
     "name": "Digital Printed Peacock Bottle",
     "category": "bottles",
     "categoryName": "Copper Bottles",
-    "image": null,
+    "image": "/assets/images/BB-1032_digital-printed-peacock-bottle.jpg",
     "variants": []
   },
   {
@@ -304,7 +304,7 @@
     "name": "Silver BB Bottle",
     "category": "bottles",
     "categoryName": "Copper Bottles",
-    "image": null,
+    "image": "/assets/images/BB-1033_silver-bb-bottle.jpg",
     "variants": []
   },
   {
@@ -313,7 +313,7 @@
     "name": "Rustic Liner Bottle",
     "category": "bottles",
     "categoryName": "Copper Bottles",
-    "image": null,
+    "image": "/assets/images/BB-1034_rustic-liner-bottle.jpg",
     "variants": []
   },
   {
@@ -322,7 +322,7 @@
     "name": "Mule Mug",
     "category": "mugs-bar",
     "categoryName": "Copper Mugs & Bar",
-    "image": null,
+    "image": "/assets/images/BB-1035_mule-mug.jpg",
     "variants": []
   },
   {
@@ -331,7 +331,7 @@
     "name": "Matt Vintage Mug",
     "category": "mugs-bar",
     "categoryName": "Copper Mugs & Bar",
-    "image": null,
+    "image": "/assets/images/BB-1036_matt-vintage-mug.jpg",
     "variants": []
   },
   {
@@ -340,7 +340,7 @@
     "name": "Classic Mug",
     "category": "mugs-bar",
     "categoryName": "Copper Mugs & Bar",
-    "image": null,
+    "image": "/assets/images/BB-1037_classic-mug.jpg",
     "variants": []
   },
   {
@@ -349,7 +349,7 @@
     "name": "Mule Mug Hammer",
     "category": "mugs-bar",
     "categoryName": "Copper Mugs & Bar",
-    "image": null,
+    "image": "/assets/images/BB-1038_mule-mug-hammer.jpg",
     "variants": []
   },
   {
@@ -358,7 +358,7 @@
     "name": "Vintage Mule Mug Hammer",
     "category": "mugs-bar",
     "categoryName": "Copper Mugs & Bar",
-    "image": null,
+    "image": "/assets/images/BB-1039_vintage-mule-mug-hammer.jpg",
     "variants": []
   },
   {
@@ -367,7 +367,7 @@
     "name": "Peg Measure",
     "category": "mugs-bar",
     "categoryName": "Copper Mugs & Bar",
-    "image": null,
+    "image": "/assets/images/BB-1040_peg-measure.jpg",
     "variants": []
   },
   {
@@ -376,7 +376,7 @@
     "name": "Black Coaster Mug",
     "category": "mugs-bar",
     "categoryName": "Copper Mugs & Bar",
-    "image": null,
+    "image": "/assets/images/BB-1041_black-coaster-mug.jpg",
     "variants": []
   },
   {
@@ -385,7 +385,7 @@
     "name": "Printed Mug",
     "category": "mugs-bar",
     "categoryName": "Copper Mugs & Bar",
-    "image": null,
+    "image": "/assets/images/BB-1042_printed-mug.jpg",
     "variants": []
   },
   {
@@ -394,7 +394,7 @@
     "name": "Plain Glass",
     "category": "glasses",
     "categoryName": "Copper Glasses",
-    "image": null,
+    "image": "/assets/images/BB-1043_plain-glass.jpg",
     "variants": []
   },
   {
@@ -403,7 +403,7 @@
     "name": "Hammer Glass",
     "category": "glasses",
     "categoryName": "Copper Glasses",
-    "image": null,
+    "image": "/assets/images/BB-1044_hammer-glass.jpg",
     "variants": []
   },
   {
@@ -412,7 +412,7 @@
     "name": "Diamond Glass",
     "category": "glasses",
     "categoryName": "Copper Glasses",
-    "image": null,
+    "image": "/assets/images/BB-1045_diamond-glass.jpg",
     "variants": []
   },
   {
@@ -421,7 +421,7 @@
     "name": "Luxury Glass",
     "category": "glasses",
     "categoryName": "Copper Glasses",
-    "image": null,
+    "image": "/assets/images/BB-1046_luxury-glass.jpg",
     "variants": []
   },
   {
@@ -430,7 +430,7 @@
     "name": "Two-Tone Dholak",
     "category": "glasses",
     "categoryName": "Copper Glasses",
-    "image": null,
+    "image": "/assets/images/BB-1047_two-tone-dholak.jpg",
     "variants": []
   },
   {
@@ -439,7 +439,7 @@
     "name": "Classic Glass",
     "category": "glasses",
     "categoryName": "Copper Glasses",
-    "image": null,
+    "image": "/assets/images/BB-1048_classic-glass.jpg",
     "variants": []
   },
   {
@@ -448,7 +448,7 @@
     "name": "Plain Tapper",
     "category": "glasses",
     "categoryName": "Copper Glasses",
-    "image": null,
+    "image": "/assets/images/BB-1049_plain-tapper.jpg",
     "variants": []
   },
   {
@@ -457,7 +457,7 @@
     "name": "Hammer Tapper",
     "category": "glasses",
     "categoryName": "Copper Glasses",
-    "image": null,
+    "image": "/assets/images/BB-1050_hammer-tapper.jpg",
     "variants": []
   },
   {
@@ -466,7 +466,7 @@
     "name": "Venus Glass",
     "category": "glasses",
     "categoryName": "Copper Glasses",
-    "image": null,
+    "image": "/assets/images/BB-1051_venus-glass.jpg",
     "variants": []
   },
   {
@@ -475,7 +475,7 @@
     "name": "Two-Tone Tapper",
     "category": "glasses",
     "categoryName": "Copper Glasses",
-    "image": null,
+    "image": "/assets/images/BB-1052_two-tone-tapper.jpg",
     "variants": []
   },
   {
@@ -484,7 +484,7 @@
     "name": "Magic Glass",
     "category": "glasses",
     "categoryName": "Copper Glasses",
-    "image": null,
+    "image": "/assets/images/BB-1053_magic-glass.jpg",
     "variants": []
   },
   {
@@ -493,7 +493,7 @@
     "name": "Regular Etching",
     "category": "glasses",
     "categoryName": "Copper Glasses",
-    "image": null,
+    "image": "/assets/images/BB-1054_regular-etching.jpg",
     "variants": []
   },
   {
@@ -502,7 +502,7 @@
     "name": "Votibe Glass",
     "category": "glasses",
     "categoryName": "Copper Glasses",
-    "image": null,
+    "image": "/assets/images/BB-1055_votibe-glass.jpg",
     "variants": []
   },
   {
@@ -511,7 +511,7 @@
     "name": "Vintage Glass",
     "category": "glasses",
     "categoryName": "Copper Glasses",
-    "image": null,
+    "image": "/assets/images/BB-1056_vintage-glass.jpg",
     "variants": []
   },
   {
@@ -520,7 +520,7 @@
     "name": "Dome Glass",
     "category": "glasses",
     "categoryName": "Copper Glasses",
-    "image": null,
+    "image": "/assets/images/BB-1057_dome-glass.jpg",
     "variants": []
   },
   {
@@ -529,7 +529,7 @@
     "name": "Two-Tone Damru",
     "category": "glasses",
     "categoryName": "Copper Glasses",
-    "image": null,
+    "image": "/assets/images/BB-1058_two-tone-damru.jpg",
     "variants": []
   },
   {
@@ -538,7 +538,7 @@
     "name": "Matka Glass",
     "category": "glasses",
     "categoryName": "Copper Glasses",
-    "image": null,
+    "image": "/assets/images/BB-1059_matka-glass.jpg",
     "variants": []
   },
   {
@@ -547,7 +547,7 @@
     "name": "Dual Tone Glass",
     "category": "glasses",
     "categoryName": "Copper Glasses",
-    "image": null,
+    "image": "/assets/images/BB-1060_dual-tone-glass.jpg",
     "variants": []
   },
   {
@@ -556,7 +556,7 @@
     "name": "Dome Hammered",
     "category": "glasses",
     "categoryName": "Copper Glasses",
-    "image": null,
+    "image": "/assets/images/BB-1061_dome-hammered.jpg",
     "variants": []
   },
   {
@@ -565,7 +565,7 @@
     "name": "Embossed Glass",
     "category": "glasses",
     "categoryName": "Copper Glasses",
-    "image": null,
+    "image": "/assets/images/BB-1062_embossed-glass.jpg",
     "variants": []
   },
   {
@@ -574,7 +574,7 @@
     "name": "Hammer Dholak",
     "category": "glasses",
     "categoryName": "Copper Glasses",
-    "image": null,
+    "image": "/assets/images/BB-1063_hammer-dholak.jpg",
     "variants": []
   },
   {
@@ -583,7 +583,7 @@
     "name": "Steel Copper Dholak",
     "category": "glasses",
     "categoryName": "Copper Glasses",
-    "image": null,
+    "image": "/assets/images/BB-1064_steel-copper-dholak.jpg",
     "variants": []
   },
   {
@@ -592,7 +592,7 @@
     "name": "Matka Stand Glass",
     "category": "glasses",
     "categoryName": "Copper Glasses",
-    "image": null,
+    "image": "/assets/images/BB-1065_matka-stand-glass.jpg",
     "variants": []
   },
   {
@@ -601,7 +601,7 @@
     "name": "Rustic Liner Glass",
     "category": "glasses",
     "categoryName": "Copper Glasses",
-    "image": null,
+    "image": "/assets/images/BB-1066_rustic-liner-glass.jpg",
     "variants": []
   },
   {
@@ -610,7 +610,7 @@
     "name": "Enamel Meena Glass",
     "category": "glasses",
     "categoryName": "Copper Glasses",
-    "image": null,
+    "image": "/assets/images/BB-1067_enamel-meena-glass.jpg",
     "variants": []
   },
   {
@@ -619,7 +619,7 @@
     "name": "Aura Cola Glass",
     "category": "glasses",
     "categoryName": "Copper Glasses",
-    "image": null,
+    "image": "/assets/images/BB-1068_aura-cola-glass.jpg",
     "variants": []
   },
   {
@@ -628,7 +628,7 @@
     "name": "Dholak Antique Etching",
     "category": "glasses",
     "categoryName": "Copper Glasses",
-    "image": null,
+    "image": "/assets/images/BB-1069_dholak-antique-etching.jpg",
     "variants": []
   },
   {
@@ -637,7 +637,7 @@
     "name": "Damru Antique Etching",
     "category": "glasses",
     "categoryName": "Copper Glasses",
-    "image": null,
+    "image": "/assets/images/BB-1070_damru-antique-etching.jpg",
     "variants": []
   },
   {
@@ -646,7 +646,7 @@
     "name": "Regular Antique Etching",
     "category": "glasses",
     "categoryName": "Copper Glasses",
-    "image": null,
+    "image": "/assets/images/BB-1071_regular-antique-etching.jpg",
     "variants": []
   },
   {
@@ -655,7 +655,7 @@
     "name": "Vintage Hammer Black",
     "category": "glasses",
     "categoryName": "Copper Glasses",
-    "image": null,
+    "image": "/assets/images/BB-1072_vintage-hammer-black.jpg",
     "variants": []
   },
   {
@@ -664,7 +664,7 @@
     "name": "SS Copper Luxury",
     "category": "glasses",
     "categoryName": "Copper Glasses",
-    "image": null,
+    "image": "/assets/images/BB-1073_ss-copper-luxury.jpg",
     "variants": []
   },
   {
@@ -673,7 +673,7 @@
     "name": "SS Copper Platinum",
     "category": "glasses",
     "categoryName": "Copper Glasses",
-    "image": null,
+    "image": "/assets/images/BB-1074_ss-copper-platinum.jpg",
     "variants": []
   },
   {
@@ -682,7 +682,7 @@
     "name": "SS Copper Silver Touch",
     "category": "glasses",
     "categoryName": "Copper Glasses",
-    "image": null,
+    "image": "/assets/images/BB-1075_ss-copper-silver-touch.jpg",
     "variants": []
   },
   {
@@ -691,7 +691,7 @@
     "name": "Steel Copper Etching",
     "category": "glasses",
     "categoryName": "Copper Glasses",
-    "image": null,
+    "image": "/assets/images/BB-1076_steel-copper-etching.jpg",
     "variants": []
   },
   {
@@ -700,7 +700,7 @@
     "name": "Lily Pot",
     "category": "pots-carafes",
     "categoryName": "Copper Pots & Bedside Carafes",
-    "image": null,
+    "image": "/assets/images/BB-1077_lily-pot.jpg",
     "variants": []
   },
   {
@@ -709,7 +709,7 @@
     "name": "Apple Pot",
     "category": "pots-carafes",
     "categoryName": "Copper Pots & Bedside Carafes",
-    "image": null,
+    "image": "/assets/images/BB-1078_apple-pot.jpg",
     "variants": []
   },
   {
@@ -718,7 +718,7 @@
     "name": "Mataka Pot",
     "category": "pots-carafes",
     "categoryName": "Copper Pots & Bedside Carafes",
-    "image": null,
+    "image": "/assets/images/BB-1079_mataka-pot.jpg",
     "variants": []
   },
   {
@@ -727,7 +727,7 @@
     "name": "Charlie Pot",
     "category": "pots-carafes",
     "categoryName": "Copper Pots & Bedside Carafes",
-    "image": null,
+    "image": "/assets/images/BB-1080_charlie-pot.jpg",
     "variants": []
   },
   {
@@ -736,7 +736,7 @@
     "name": "Churi Surai Pot",
     "category": "pots-carafes",
     "categoryName": "Copper Pots & Bedside Carafes",
-    "image": null,
+    "image": "/assets/images/BB-1081_churi-surai-pot.jpg",
     "variants": []
   },
   {
@@ -745,7 +745,7 @@
     "name": "Oscar Pot",
     "category": "pots-carafes",
     "categoryName": "Copper Pots & Bedside Carafes",
-    "image": null,
+    "image": "/assets/images/BB-1082_oscar-pot.jpg",
     "variants": []
   },
   {
@@ -754,7 +754,7 @@
     "name": "Dolphin Pot",
     "category": "pots-carafes",
     "categoryName": "Copper Pots & Bedside Carafes",
-    "image": null,
+    "image": "/assets/images/BB-1083_dolphin-pot.jpg",
     "variants": []
   },
   {
@@ -763,7 +763,7 @@
     "name": "Venus Pot Carafe",
     "category": "pots-carafes",
     "categoryName": "Copper Pots & Bedside Carafes",
-    "image": null,
+    "image": "/assets/images/BB-1084_venus-pot-carafe.jpg",
     "variants": []
   },
   {
@@ -772,7 +772,7 @@
     "name": "Hammered Bedside Pot",
     "category": "pots-carafes",
     "categoryName": "Copper Pots & Bedside Carafes",
-    "image": null,
+    "image": "/assets/images/BB-1085_hammered-bedside-pot.jpg",
     "variants": []
   },
   {
@@ -781,7 +781,7 @@
     "name": "Pineapple Pot",
     "category": "pots-carafes",
     "categoryName": "Copper Pots & Bedside Carafes",
-    "image": null,
+    "image": "/assets/images/BB-1086_pineapple-pot.jpg",
     "variants": []
   },
   {
@@ -790,7 +790,7 @@
     "name": "Surai Pot",
     "category": "pots-carafes",
     "categoryName": "Copper Pots & Bedside Carafes",
-    "image": null,
+    "image": "/assets/images/BB-1087_surai-pot.jpg",
     "variants": []
   },
   {
@@ -799,7 +799,7 @@
     "name": "Kalash Pot",
     "category": "pots-carafes",
     "categoryName": "Copper Pots & Bedside Carafes",
-    "image": null,
+    "image": "/assets/images/BB-1088_kalash-pot.jpg",
     "variants": []
   },
   {
@@ -808,7 +808,7 @@
     "name": "Tulip Pot",
     "category": "pots-carafes",
     "categoryName": "Copper Pots & Bedside Carafes",
-    "image": null,
+    "image": "/assets/images/BB-1089_tulip-pot.jpg",
     "variants": []
   },
   {
@@ -817,7 +817,7 @@
     "name": "Surai Aura Pot",
     "category": "pots-carafes",
     "categoryName": "Copper Pots & Bedside Carafes",
-    "image": null,
+    "image": "/assets/images/BB-1090_surai-aura-pot.jpg",
     "variants": []
   },
   {
@@ -826,7 +826,7 @@
     "name": "Venus Aura Pot",
     "category": "pots-carafes",
     "categoryName": "Copper Pots & Bedside Carafes",
-    "image": null,
+    "image": "/assets/images/BB-1091_venus-aura-pot.jpg",
     "variants": []
   },
   {
@@ -835,7 +835,7 @@
     "name": "Regular Aura Pot",
     "category": "pots-carafes",
     "categoryName": "Copper Pots & Bedside Carafes",
-    "image": null,
+    "image": "/assets/images/BB-1092_regular-aura-pot.jpg",
     "variants": []
   },
   {
@@ -844,7 +844,7 @@
     "name": "Apple Aura Pot",
     "category": "pots-carafes",
     "categoryName": "Copper Pots & Bedside Carafes",
-    "image": null,
+    "image": "/assets/images/BB-1093_apple-aura-pot.jpg",
     "variants": []
   },
   {
@@ -853,7 +853,7 @@
     "name": "Matka Pot",
     "category": "pots-carafes",
     "categoryName": "Copper Pots & Bedside Carafes",
-    "image": null,
+    "image": "/assets/images/BB-1094_matka-pot.jpg",
     "variants": []
   },
   {
@@ -862,7 +862,7 @@
     "name": "Oscar Antique Etching",
     "category": "pots-carafes",
     "categoryName": "Copper Pots & Bedside Carafes",
-    "image": null,
+    "image": "/assets/images/BB-1095_oscar-antique-etching.jpg",
     "variants": []
   },
   {
@@ -871,7 +871,7 @@
     "name": "Regular Antique Etching",
     "category": "pots-carafes",
     "categoryName": "Copper Pots & Bedside Carafes",
-    "image": null,
+    "image": "/assets/images/BB-1096_regular-antique-etching.jpg",
     "variants": []
   },
   {
@@ -880,7 +880,7 @@
     "name": "Tulip Antique Etching",
     "category": "pots-carafes",
     "categoryName": "Copper Pots & Bedside Carafes",
-    "image": null,
+    "image": "/assets/images/BB-1097_tulip-antique-etching.jpg",
     "variants": []
   },
   {
@@ -889,7 +889,7 @@
     "name": "Enamel Meena Printed Bedside Carafe",
     "category": "pots-carafes",
     "categoryName": "Copper Pots & Bedside Carafes",
-    "image": null,
+    "image": "/assets/images/BB-1098_enamel-meena-printed-bedside-carafe.jpg",
     "variants": [
       "Enamel Meena",
       "Printed"
@@ -901,7 +901,7 @@
     "name": "Kumkum Lota",
     "category": "lota",
     "categoryName": "Copper Lota",
-    "image": null,
+    "image": "/assets/images/BB-1099_kumkum-lota.jpg",
     "variants": []
   },
   {
@@ -910,7 +910,7 @@
     "name": "Hammered Lota",
     "category": "lota",
     "categoryName": "Copper Lota",
-    "image": null,
+    "image": "/assets/images/BB-1100_hammered-lota.jpg",
     "variants": []
   },
   {
@@ -919,7 +919,7 @@
     "name": "Vishnu Chambhuta",
     "category": "lota",
     "categoryName": "Copper Lota",
-    "image": null,
+    "image": "/assets/images/BB-1101_vishnu-chambhuta.jpg",
     "variants": []
   },
   {
@@ -928,7 +928,7 @@
     "name": "Kalsi Lota",
     "category": "lota",
     "categoryName": "Copper Lota",
-    "image": null,
+    "image": "/assets/images/BB-1102_kalsi-lota.jpg",
     "variants": []
   },
   {
@@ -937,7 +937,7 @@
     "name": "Kalyani Lota",
     "category": "lota",
     "categoryName": "Copper Lota",
-    "image": null,
+    "image": "/assets/images/BB-1103_kalyani-lota.jpg",
     "variants": []
   },
   {
@@ -946,7 +946,7 @@
     "name": "Dual-Tone Lota",
     "category": "lota",
     "categoryName": "Copper Lota",
-    "image": null,
+    "image": "/assets/images/BB-1104_dual-tone-lota.jpg",
     "variants": []
   },
   {
@@ -955,7 +955,7 @@
     "name": "Dual-Tone Diamond Lota",
     "category": "lota",
     "categoryName": "Copper Lota",
-    "image": null,
+    "image": "/assets/images/BB-1105_dual-tone-diamond-lota.jpg",
     "variants": []
   },
   {
@@ -964,7 +964,7 @@
     "name": "Nakshi Embossed Lota",
     "category": "lota",
     "categoryName": "Copper Lota",
-    "image": null,
+    "image": "/assets/images/BB-1106_nakshi-embossed-lota.jpg",
     "variants": []
   },
   {
@@ -973,7 +973,7 @@
     "name": "Neti Lota",
     "category": "lota",
     "categoryName": "Copper Lota",
-    "image": null,
+    "image": "/assets/images/BB-1107_neti-lota.jpg",
     "variants": []
   },
   {
@@ -982,7 +982,7 @@
     "name": "Pooja Lota",
     "category": "lota",
     "categoryName": "Copper Lota",
-    "image": null,
+    "image": "/assets/images/BB-1108_pooja-lota.jpg",
     "variants": []
   },
   {
@@ -991,7 +991,7 @@
     "name": "Naveen Lota",
     "category": "lota",
     "categoryName": "Copper Lota",
-    "image": null,
+    "image": "/assets/images/BB-1109_naveen-lota.jpg",
     "variants": []
   },
   {
@@ -1000,7 +1000,7 @@
     "name": "Ganga Sagar",
     "category": "lota",
     "categoryName": "Copper Lota",
-    "image": null,
+    "image": "/assets/images/BB-1110_ganga-sagar.jpg",
     "variants": []
   },
   {
@@ -1009,7 +1009,7 @@
     "name": "Dhara Patra",
     "category": "religious",
     "categoryName": "Copper Religious Items",
-    "image": null,
+    "image": "/assets/images/BB-1111_dhara-patra.jpg",
     "variants": []
   },
   {
@@ -1018,7 +1018,7 @@
     "name": "Panchapatra with Achmani",
     "category": "religious",
     "categoryName": "Copper Religious Items",
-    "image": null,
+    "image": "/assets/images/BB-1112_panchapatra-with-achmani.jpg",
     "variants": []
   },
   {
@@ -1027,7 +1027,7 @@
     "name": "Panchapatra Kalash",
     "category": "religious",
     "categoryName": "Copper Religious Items",
-    "image": null,
+    "image": "/assets/images/BB-1113_panchapatra-kalash.jpg",
     "variants": []
   },
   {
@@ -1036,7 +1036,7 @@
     "name": "Lotus Pooja Diya",
     "category": "religious",
     "categoryName": "Copper Religious Items",
-    "image": null,
+    "image": "/assets/images/BB-1114_lotus-pooja-diya.jpg",
     "variants": []
   },
   {
@@ -1045,7 +1045,7 @@
     "name": "Taman Pooja Plate",
     "category": "religious",
     "categoryName": "Copper Religious Items",
-    "image": null,
+    "image": "/assets/images/BB-1115_taman-pooja-plate.jpg",
     "variants": []
   },
   {
@@ -1054,7 +1054,7 @@
     "name": "Engraving Pooja Plate",
     "category": "religious",
     "categoryName": "Copper Religious Items",
-    "image": null,
+    "image": "/assets/images/BB-1116_engraving-pooja-plate.jpg",
     "variants": []
   },
   {
@@ -1063,7 +1063,7 @@
     "name": "Hawan Kund",
     "category": "religious",
     "categoryName": "Copper Religious Items",
-    "image": null,
+    "image": "/assets/images/BB-1117_hawan-kund.jpg",
     "variants": []
   },
   {
@@ -1072,7 +1072,7 @@
     "name": "Pooja Spoon",
     "category": "religious",
     "categoryName": "Copper Religious Items",
-    "image": null,
+    "image": "/assets/images/BB-1118_pooja-spoon.jpg",
     "variants": []
   },
   {
@@ -1081,7 +1081,7 @@
     "name": "Vintage Liner Tank",
     "category": "tanks",
     "categoryName": "Copper Tanks",
-    "image": null,
+    "image": "/assets/images/BB-1119_vintage-liner-tank.jpg",
     "variants": []
   },
   {
@@ -1090,7 +1090,7 @@
     "name": "D-Tone Half Hammered Matka",
     "category": "tanks",
     "categoryName": "Copper Tanks",
-    "image": null,
+    "image": "/assets/images/BB-1120_d-tone-half-hammered-matka.jpg",
     "variants": []
   },
   {
@@ -1099,7 +1099,7 @@
     "name": "D-Tone Half-Hammered Tank",
     "category": "tanks",
     "categoryName": "Copper Tanks",
-    "image": null,
+    "image": "/assets/images/BB-1121_d-tone-half-hammered-tank.jpg",
     "variants": []
   },
   {
@@ -1108,7 +1108,7 @@
     "name": "Antique Barfi Tank",
     "category": "tanks",
     "categoryName": "Copper Tanks",
-    "image": null,
+    "image": "/assets/images/BB-1122_antique-barfi-tank.jpg",
     "variants": []
   },
   {
@@ -1117,7 +1117,7 @@
     "name": "Two-Tone Barfi Tank",
     "category": "tanks",
     "categoryName": "Copper Tanks",
-    "image": null,
+    "image": "/assets/images/BB-1123_two-tone-barfi-tank.jpg",
     "variants": []
   },
   {
@@ -1126,7 +1126,7 @@
     "name": "Enamel Tank",
     "category": "tanks",
     "categoryName": "Copper Tanks",
-    "image": null,
+    "image": "/assets/images/BB-1124_enamel-tank.jpg",
     "variants": []
   },
   {
@@ -1135,7 +1135,7 @@
     "name": "Antique Etching Tank",
     "category": "tanks",
     "categoryName": "Copper Tanks",
-    "image": null,
+    "image": "/assets/images/BB-1125_antique-etching-tank.jpg",
     "variants": []
   },
   {
@@ -1144,7 +1144,7 @@
     "name": "Hammer Tank",
     "category": "tanks",
     "categoryName": "Copper Tanks",
-    "image": null,
+    "image": "/assets/images/BB-1126_hammer-tank.jpg",
     "variants": []
   },
   {
@@ -1153,7 +1153,7 @@
     "name": "Antique Etching Rollar Tank",
     "category": "tanks",
     "categoryName": "Copper Tanks",
-    "image": null,
+    "image": "/assets/images/BB-1127_antique-etching-rollar-tank.jpg",
     "variants": []
   },
   {
@@ -1207,7 +1207,7 @@
     "name": "Wooden Barrel Tank",
     "category": "tanks",
     "categoryName": "Copper Tanks",
-    "image": null,
+    "image": "/assets/images/BB-1133_wooden-barrel-tank.jpg",
     "variants": []
   },
   {
@@ -1216,7 +1216,7 @@
     "name": "Apple Half Hammered Tank",
     "category": "tanks",
     "categoryName": "Copper Tanks",
-    "image": null,
+    "image": "/assets/images/BB-1134_apple-half-hammered-tank.jpg",
     "variants": []
   },
   {
@@ -1225,7 +1225,7 @@
     "name": "Enamel Tank",
     "category": "tanks",
     "categoryName": "Copper Tanks",
-    "image": null,
+    "image": "/assets/images/BB-1135_enamel-tank.jpg",
     "variants": [
       "3 catalogue designs"
     ]
@@ -1236,7 +1236,7 @@
     "name": "Enamel Tank with Stand & Glass",
     "category": "tanks",
     "categoryName": "Copper Tanks",
-    "image": null,
+    "image": "/assets/images/BB-1136_enamel-tank-with-stand-and-glass.jpg",
     "variants": [
       "Catalogue variants"
     ]
@@ -1247,7 +1247,7 @@
     "name": "Antique Etching Tank (with stand)",
     "category": "tanks",
     "categoryName": "Copper Tanks",
-    "image": null,
+    "image": "/assets/images/BB-1137_antique-etching-tank.jpg",
     "variants": []
   },
   {
@@ -1256,7 +1256,7 @@
     "name": "Hammered Tank (with stand)",
     "category": "tanks",
     "categoryName": "Copper Tanks",
-    "image": null,
+    "image": "/assets/images/BB-1138_hammered-tank.jpg",
     "variants": []
   },
   {
@@ -1265,7 +1265,7 @@
     "name": "Aura Tank (with stand)",
     "category": "tanks",
     "categoryName": "Copper Tanks",
-    "image": null,
+    "image": "/assets/images/BB-1139_aura-tank.jpg",
     "variants": []
   },
   {
@@ -1274,7 +1274,7 @@
     "name": "Two-Tone Tank 3 Pcs Set",
     "category": "tanks",
     "categoryName": "Copper Tanks",
-    "image": null,
+    "image": "/assets/images/BB-1140_two-tone-tank-3-pcs-set.jpg",
     "variants": []
   },
   {
@@ -1283,7 +1283,7 @@
     "name": "Hammer Tank 3 Pcs Set",
     "category": "tanks",
     "categoryName": "Copper Tanks",
-    "image": null,
+    "image": "/assets/images/BB-1141_hammer-tank-3-pcs-set.jpg",
     "variants": []
   },
   {
@@ -1292,7 +1292,7 @@
     "name": "Designer Tank 3 Pcs Set",
     "category": "tanks",
     "categoryName": "Copper Tanks",
-    "image": null,
+    "image": "/assets/images/BB-1142_designer-tank-3-pcs-set.jpg",
     "variants": []
   },
   {
@@ -1301,7 +1301,7 @@
     "name": "Hammered Matka",
     "category": "tanks",
     "categoryName": "Copper Tanks",
-    "image": "/assets/lifestyle/matka.webp",
+    "image": "/assets/images/BB-1143_hammered-matka.jpg",
     "variants": [],
     "note": "Catalogue lifestyle photograph for item BB-1143."
   },
@@ -1311,7 +1311,7 @@
     "name": "SS Copper Silver Touch",
     "category": "jugs",
     "categoryName": "Copper Jugs",
-    "image": null,
+    "image": "/assets/images/BB-1144_ss-copper-silver-touch-jug.jpg",
     "variants": []
   },
   {
@@ -1320,7 +1320,7 @@
     "name": "SS Copper Diamond",
     "category": "jugs",
     "categoryName": "Copper Jugs",
-    "image": null,
+    "image": "/assets/images/BB-1145_ss-copper-diamond-jug.jpg",
     "variants": []
   },
   {
@@ -1329,7 +1329,7 @@
     "name": "SS Copper Platinum",
     "category": "jugs",
     "categoryName": "Copper Jugs",
-    "image": null,
+    "image": "/assets/images/BB-1146_ss-copper-platinum-jug.jpg",
     "variants": []
   },
   {
@@ -1338,7 +1338,7 @@
     "name": "SS Copper Platinum Lazer",
     "category": "jugs",
     "categoryName": "Copper Jugs",
-    "image": null,
+    "image": "/assets/images/BB-1147_ss-copper-platinum-lazer-jug.jpg",
     "variants": []
   },
   {
@@ -1347,7 +1347,7 @@
     "name": "SS Copper Delux",
     "category": "jugs",
     "categoryName": "Copper Jugs",
-    "image": null,
+    "image": "/assets/images/BB-1148_ss-copper-delux-jug.jpg",
     "variants": []
   },
   {
@@ -1356,7 +1356,7 @@
     "name": "SS Copper Etching",
     "category": "jugs",
     "categoryName": "Copper Jugs",
-    "image": null,
+    "image": "/assets/images/BB-1149_ss-copper-etching-jug.jpg",
     "variants": []
   },
   {
@@ -1365,7 +1365,7 @@
     "name": "SS Copper Hammered Jug",
     "category": "jugs",
     "categoryName": "Copper Jugs",
-    "image": null,
+    "image": "/assets/images/BB-1150_ss-copper-hammered-jug.jpg",
     "variants": []
   },
   {
@@ -1374,7 +1374,7 @@
     "name": "Plain Jug",
     "category": "jugs",
     "categoryName": "Copper Jugs",
-    "image": null,
+    "image": "/assets/images/BB-1151_plain-jug.jpg",
     "variants": []
   },
   {
@@ -1383,7 +1383,7 @@
     "name": "Dual-Tone Jug",
     "category": "jugs",
     "categoryName": "Copper Jugs",
-    "image": null,
+    "image": "/assets/images/BB-1152_dual-tone-jug.jpg",
     "variants": []
   },
   {
@@ -1392,7 +1392,7 @@
     "name": "Luxury Jug",
     "category": "jugs",
     "categoryName": "Copper Jugs",
-    "image": null,
+    "image": "/assets/images/BB-1153_luxury-jug.jpg",
     "variants": []
   },
   {
@@ -1401,7 +1401,7 @@
     "name": "Diamond Jug",
     "category": "jugs",
     "categoryName": "Copper Jugs",
-    "image": null,
+    "image": "/assets/images/BB-1154_diamond-jug.jpg",
     "variants": []
   },
   {
@@ -1410,7 +1410,7 @@
     "name": "Mughal Jug",
     "category": "jugs",
     "categoryName": "Copper Jugs",
-    "image": null,
+    "image": "/assets/images/BB-1155_mughal-jug.jpg",
     "variants": []
   },
   {
@@ -1419,7 +1419,7 @@
     "name": "Lily Jug",
     "category": "jugs",
     "categoryName": "Copper Jugs",
-    "image": null,
+    "image": "/assets/images/BB-1156_lily-jug.jpg",
     "variants": []
   },
   {
@@ -1428,7 +1428,7 @@
     "name": "Printed Jug",
     "category": "jugs",
     "categoryName": "Copper Jugs",
-    "image": null,
+    "image": "/assets/images/BB-1157_printed-jug.jpg",
     "variants": []
   },
   {
@@ -1437,7 +1437,7 @@
     "name": "Hammered Jug",
     "category": "jugs",
     "categoryName": "Copper Jugs",
-    "image": null,
+    "image": "/assets/images/BB-1158_hammered-jug.jpg",
     "variants": []
   },
   {
@@ -1446,7 +1446,7 @@
     "name": "SS Copper Regular Thali (9 pcs set)",
     "category": "thali-sets",
     "categoryName": "Copper Thali Sets",
-    "image": null,
+    "image": "/assets/images/BB-1159_ss-copper-regular-thali-9-pcs.jpg",
     "variants": []
   },
   {
@@ -1455,7 +1455,7 @@
     "name": "SS Copper Maharaja Thali (10 pcs set)",
     "category": "thali-sets",
     "categoryName": "Copper Thali Sets",
-    "image": null,
+    "image": "/assets/images/BB-1160_ss-copper-maharaja-thali-10-pcs.jpg",
     "variants": []
   },
   {
@@ -1464,7 +1464,7 @@
     "name": "SS Copper Thali (7 pcs set)",
     "category": "thali-sets",
     "categoryName": "Copper Thali Sets",
-    "image": null,
+    "image": "/assets/images/BB-1161_ss-copper-thali-7-pcs.jpg",
     "variants": []
   },
   {
@@ -1473,7 +1473,7 @@
     "name": "Bronze Thali (6 pcs set)",
     "category": "thali-sets",
     "categoryName": "Copper Thali Sets",
-    "image": null,
+    "image": "/assets/images/BB-1162_bronze-thali-6-pcs.jpg",
     "variants": []
   },
   {
@@ -1482,7 +1482,7 @@
     "name": "SS Copper Moon Thali (11 pcs set)",
     "category": "thali-sets",
     "categoryName": "Copper Thali Sets",
-    "image": null,
+    "image": "/assets/images/BB-1163_ss-copper-moon-thali-11-pcs.jpg",
     "variants": []
   },
   {
@@ -1491,7 +1491,7 @@
     "name": "Two-Tone G.P.",
     "category": "bottle-gift-packs",
     "categoryName": "Copper Bottle Gift Packs",
-    "image": null,
+    "image": "/assets/images/BB-1164_two-tone-gp.jpg",
     "variants": []
   },
   {
@@ -1500,7 +1500,7 @@
     "name": "Diamond Hammered G.P.",
     "category": "bottle-gift-packs",
     "categoryName": "Copper Bottle Gift Packs",
-    "image": null,
+    "image": "/assets/images/BB-1165_diamond-hammered-gp.jpg",
     "variants": []
   },
   {
@@ -1509,7 +1509,7 @@
     "name": "Joint Silver Touch G.P.",
     "category": "bottle-gift-packs",
     "categoryName": "Copper Bottle Gift Packs",
-    "image": null,
+    "image": "/assets/images/BB-1166_joint-silver-touch-gp.jpg",
     "variants": []
   },
   {
@@ -1518,7 +1518,7 @@
     "name": "Tower G.P.",
     "category": "bottle-gift-packs",
     "categoryName": "Copper Bottle Gift Packs",
-    "image": null,
+    "image": "/assets/images/BB-1167_tower-gp.jpg",
     "variants": []
   },
   {
@@ -1527,7 +1527,7 @@
     "name": "Oreo Gift Pack",
     "category": "bottle-gift-packs",
     "categoryName": "Copper Bottle Gift Packs",
-    "image": null,
+    "image": "/assets/images/BB-1168_oreo-gift-pack.jpg",
     "variants": []
   },
   {
@@ -1536,7 +1536,7 @@
     "name": "Hammered Gift Pack",
     "category": "bottle-gift-packs",
     "categoryName": "Copper Bottle Gift Packs",
-    "image": null,
+    "image": "/assets/images/BB-1169_hammered-gift-pack.jpg",
     "variants": []
   },
   {
@@ -1545,7 +1545,7 @@
     "name": "BMC Gift Pack",
     "category": "bottle-gift-packs",
     "categoryName": "Copper Bottle Gift Packs",
-    "image": null,
+    "image": "/assets/images/BB-1170_bmc-gift-pack.jpg",
     "variants": []
   },
   {
@@ -1554,7 +1554,7 @@
     "name": "Dr. Bottle G.P.",
     "category": "bottle-gift-packs",
     "categoryName": "Copper Bottle Gift Packs",
-    "image": null,
+    "image": "/assets/images/BB-1171_dr-bottle-gp.jpg",
     "variants": []
   },
   {
@@ -1563,7 +1563,7 @@
     "name": "Matt Premium",
     "category": "bottle-gift-packs",
     "categoryName": "Copper Bottle Gift Packs",
-    "image": null,
+    "image": "/assets/images/BB-1172_matt-premium-gp.jpg",
     "variants": []
   },
   {
@@ -1572,7 +1572,7 @@
     "name": "Oreo Steel G.P.",
     "category": "bottle-gift-packs",
     "categoryName": "Copper Bottle Gift Packs",
-    "image": null,
+    "image": "/assets/images/BB-1173_oreo-steel-gp.jpg",
     "variants": []
   },
   {
@@ -1581,7 +1581,7 @@
     "name": "BMC Steel G.P.",
     "category": "bottle-gift-packs",
     "categoryName": "Copper Bottle Gift Packs",
-    "image": null,
+    "image": "/assets/images/BB-1174_bmc-steel-gp.jpg",
     "variants": []
   },
   {
@@ -1590,7 +1590,7 @@
     "name": "Rustic Liner G.P.",
     "category": "bottle-gift-packs",
     "categoryName": "Copper Bottle Gift Packs",
-    "image": null,
+    "image": "/assets/images/BB-1175_rustic-liner-gp.jpg",
     "variants": []
   },
   {
@@ -1599,7 +1599,7 @@
     "name": "Jointless Magic G.P.",
     "category": "bottle-gift-packs",
     "categoryName": "Copper Bottle Gift Packs",
-    "image": null,
+    "image": "/assets/images/BB-1176_jointless-magic-gp.jpg",
     "variants": []
   },
   {

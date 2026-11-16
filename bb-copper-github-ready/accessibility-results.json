@@ -1,0 +1,22 @@
+[
+  {
+    "route": "/",
+    "violations": []
+  },
+  {
+    "route": "/products/",
+    "violations": []
+  },
+  {
+    "route": "/products/bb-1185/",
+    "violations": []
+  },
+  {
+    "route": "/products/bb-1001/",
+    "violations": []
+  },
+  {
+    "route": "/contact/",
+    "violations": []
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "name": "bb-copper-static-catalogue",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "python3 build.py",
+    "dev": "python3 -m http.server 3000 --bind 0.0.0.0 --directory dist",
+    "audit:static": "python3 audit.py",
+    "test:browser": "node test-browser.cjs",
+    "test:a11y": "node test-a11y.cjs"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "4.13.0",
+    "playwright": "1.65.1"
+  }
+}

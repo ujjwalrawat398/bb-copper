@@ -1,0 +1,449 @@
+{
+  "checks": 63,
+  "failures": [],
+  "errors": [],
+  "interactions": "PASS: search, empty state, photo filter, mobile menu, Escape, name validation, exact encoded WhatsApp payload",
+  "results": [
+    {
+      "width": 320,
+      "route": "/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 320,
+      "route": "/products/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 320,
+      "route": "/categories/bottles/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 320,
+      "route": "/categories/gift-sets/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 320,
+      "route": "/products/bb-1185/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 320,
+      "route": "/products/bb-1001/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 320,
+      "route": "/about/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 320,
+      "route": "/contact/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 320,
+      "route": "/reviews/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 360,
+      "route": "/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 360,
+      "route": "/products/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 360,
+      "route": "/categories/bottles/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 360,
+      "route": "/categories/gift-sets/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 360,
+      "route": "/products/bb-1185/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 360,
+      "route": "/products/bb-1001/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 360,
+      "route": "/about/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 360,
+      "route": "/contact/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 360,
+      "route": "/reviews/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "route": "/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "route": "/products/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "route": "/categories/bottles/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "route": "/categories/gift-sets/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "route": "/products/bb-1185/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "route": "/products/bb-1001/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "route": "/about/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "route": "/contact/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "route": "/reviews/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 430,
+      "route": "/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 430,
+      "route": "/products/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 430,
+      "route": "/categories/bottles/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 430,
+      "route": "/categories/gift-sets/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 430,
+      "route": "/products/bb-1185/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 430,
+      "route": "/products/bb-1001/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 430,
+      "route": "/about/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 430,
+      "route": "/contact/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 430,
+      "route": "/reviews/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 768,
+      "route": "/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 768,
+      "route": "/products/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 768,
+      "route": "/categories/bottles/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 768,
+      "route": "/categories/gift-sets/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 768,
+      "route": "/products/bb-1185/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 768,
+      "route": "/products/bb-1001/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 768,
+      "route": "/about/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 768,
+      "route": "/contact/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 768,
+      "route": "/reviews/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 1024,
+      "route": "/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 1024,
+      "route": "/products/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 1024,
+      "route": "/categories/bottles/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 1024,
+      "route": "/categories/gift-sets/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 1024,
+      "route": "/products/bb-1185/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 1024,
+      "route": "/products/bb-1001/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 1024,
+      "route": "/about/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 1024,
+      "route": "/contact/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 1024,
+      "route": "/reviews/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "route": "/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "route": "/products/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "route": "/categories/bottles/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "route": "/categories/gift-sets/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "route": "/products/bb-1185/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "route": "/products/bb-1001/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "route": "/about/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "route": "/contact/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "route": "/reviews/",
+      "overflow": false,
+      "h1": 1,
+      "broken": []
+    }
+  ]
+}

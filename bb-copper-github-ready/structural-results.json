@@ -1,0 +1,20 @@
+{
+  "pages": 207,
+  "product_codes": 191,
+  "sitemap_urls": 206,
+  "unique_titles": 207,
+  "unique_descriptions": 207,
+  "errors": [],
+  "checks": [
+    "local links/assets",
+    "image alt/dimensions",
+    "JSON-LD parsing",
+    "CSP hashes",
+    "no inline executable code, event handlers or CSS",
+    "noopener",
+    "single H1",
+    "unique titles and descriptions",
+    "sitemap",
+    "product inventory"
+  ]
+}

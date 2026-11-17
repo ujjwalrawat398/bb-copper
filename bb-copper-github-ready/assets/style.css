@@ -119,3 +119,18 @@ body{background:radial-gradient(1000px 500px at 85% -5%,#d4a43722,transparent 60
 .enquiry label{color:#efe6d2}
 .tools input,.tools select{border-color:#e0c795}
 @media(max-width:600px){.hero{margin-top:14px;padding-top:34px;padding-bottom:34px;border-radius:14px}.page-head{margin-top:14px;padding:30px 22px 26px;border-radius:12px}.links{background:#0d0d0f;border-bottom-color:#d4a43755}}
+
+/* Contrast fixes 2026-11-17 (Black+Gold): dark text was left on near-black
+   backgrounds in spots the theme overrides never reached. */
+.enquiry-title{color:#f5ead2}
+.detail .eyebrow{color:#e8c268}
+.enquiry label span{color:#c9b896}
+.editorial .section-head p{color:#c9b896}
+div.container.section h1{color:#fdf6e3}
+div.container.section h2{color:#f5ead2}
+div.container.section p{color:#d8c9ae}
+div.container.section .eyebrow{color:#e8c268}
+.category-tile .arrow{color:#e8c268}
+.filters a span{color:#b39a6a}
+.copyright{color:#b39a6a}
+@media(max-width:600px){.gallery-grid h3{color:#30251f}}

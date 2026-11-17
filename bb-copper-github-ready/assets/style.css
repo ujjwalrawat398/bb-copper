@@ -126,10 +126,10 @@ body{background:radial-gradient(1000px 500px at 85% -5%,#d4a43722,transparent 60
 .detail .eyebrow{color:#e8c268}
 .enquiry label span{color:#c9b896}
 .editorial .section-head p{color:#c9b896}
-div.container.section h1{color:#fdf6e3}
-div.container.section h2{color:#f5ead2}
-div.container.section p{color:#d8c9ae}
-div.container.section .eyebrow{color:#e8c268}
+.container.section h1{color:#fdf6e3}
+.container.section h2{color:#f5ead2}
+.container.section p{color:#d8c9ae}
+.container.section .eyebrow{color:#e8c268}
 .category-tile .arrow{color:#e8c268}
 .filters a span{color:#b39a6a}
 .copyright{color:#b39a6a}

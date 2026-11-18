@@ -58,7 +58,7 @@ def listing(category=None):
   count_html=f'<span id="count">{len(items)}</span> products · Enquire for availability and specifications'
   download_top=''
   download_cta=''
-  tools_download=''
+  tools_download='<a class="btn btn-red tools-download" href="/assets/BB-Copper-Catalogue.pdf" download>Download Catalogue ↓</a>'
  title=category['name'] if category else 'The copper collection'
  filters=''.join(f'<a class="{"active" if category and category["id"]==c["id"] else ""}" href="/categories/{c["id"]}/">{e(c["name"].replace("Copper ",""))} <span>{c["count"]}</span></a>' for c in C)
  b=f'''<div class="container"><div class="page-head"><span class="eyebrow">BB COPPER · PRODUCT CATALOGUE</span><h1>{e(title)}</h1><p>Traditional forms. Distinctive finishes. Find a piece for your everyday ritual, then ask us for a quote directly on WhatsApp.</p>{download_top}</div><div class="catalog-layout"><aside class="filters"><h3>COLLECTIONS</h3><a href="/products/">All products <span>191</span></a>{filters}</aside><section><div class="tools"><input id="search" type="search" placeholder="Search product name or item code…" aria-label="Search products"><select id="photo-filter" aria-label="Photo availability"><option value="all">All catalogue entries</option><option value="yes">With supplied photos</option></select>{tools_download}</div><div class="result-count" aria-live="polite">{count_html}</div><div class="product-grid" id="catalog">{''.join(map(card,items))}</div>{download_cta}<p class="empty" id="empty" hidden>No matching products. Try a name or item code.</p></section></div></div>'''

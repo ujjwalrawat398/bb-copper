@@ -4,76 +4,153 @@
     "name": "Copper Bottles",
     "slug": "bottles",
     "range": "BB-1001 to BB-1034",
-    "count": 34
+    "count": 34,
+    "showcase": [
+      "BB-1001",
+      "BB-1009",
+      "BB-1017",
+      "BB-1026",
+      "BB-1034"
+    ]
   },
   {
     "id": "mugs-bar",
     "name": "Copper Mugs & Bar",
     "slug": "mugs-bar",
     "range": "BB-1035 to BB-1042",
-    "count": 8
+    "count": 8,
+    "showcase": [
+      "BB-1035",
+      "BB-1037",
+      "BB-1039",
+      "BB-1040",
+      "BB-1042"
+    ]
   },
   {
     "id": "glasses",
     "name": "Copper Glasses",
     "slug": "glasses",
     "range": "BB-1043 to BB-1076",
-    "count": 34
+    "count": 34,
+    "showcase": [
+      "BB-1043",
+      "BB-1051",
+      "BB-1059",
+      "BB-1068",
+      "BB-1076"
+    ]
   },
   {
     "id": "pots-carafes",
     "name": "Copper Pots & Bedside Carafes",
     "slug": "pots-carafes",
     "range": "BB-1077 to BB-1098",
-    "count": 22
+    "count": 22,
+    "showcase": [
+      "BB-1077",
+      "BB-1082",
+      "BB-1087",
+      "BB-1093",
+      "BB-1098"
+    ]
   },
   {
     "id": "lota",
     "name": "Copper Lota",
     "slug": "lota",
     "range": "BB-1099 to BB-1110",
-    "count": 12
+    "count": 12,
+    "showcase": [
+      "BB-1099",
+      "BB-1102",
+      "BB-1105",
+      "BB-1107",
+      "BB-1110"
+    ]
   },
   {
     "id": "religious",
     "name": "Copper Religious Items",
     "slug": "religious",
     "range": "BB-1111 to BB-1118",
-    "count": 8
+    "count": 8,
+    "showcase": [
+      "BB-1112",
+      "BB-1113",
+      "BB-1114",
+      "BB-1116",
+      "BB-1118"
+    ]
   },
   {
     "id": "tanks",
     "name": "Copper Tanks",
     "slug": "tanks",
     "range": "BB-1119 to BB-1143",
-    "count": 25
+    "count": 25,
+    "showcase": [
+      "BB-1119",
+      "BB-1125",
+      "BB-1130",
+      "BB-1133",
+      "BB-1142"
+    ]
   },
   {
     "id": "jugs",
     "name": "Copper Jugs",
     "slug": "jugs",
     "range": "BB-1144 to BB-1158",
-    "count": 15
+    "count": 15,
+    "showcase": [
+      "BB-1147",
+      "BB-1149",
+      "BB-1151",
+      "BB-1154",
+      "BB-1157"
+    ]
   },
   {
     "id": "thali-sets",
     "name": "Copper Thali Sets",
     "slug": "thali-sets",
     "range": "BB-1159 to BB-1163",
-    "count": 5
+    "count": 5,
+    "showcase": [
+      "BB-1159",
+      "BB-1160",
+      "BB-1161",
+      "BB-1162",
+      "BB-1163"
+    ]
   },
   {
     "id": "bottle-gift-packs",
     "name": "Copper Bottle Gift Packs",
     "slug": "bottle-gift-packs",
     "range": "BB-1164 to BB-1180",
-    "count": 17
+    "count": 17,
+    "showcase": [
+      "BB-1164",
+      "BB-1172",
+      "BB-1175",
+      "BB-1176",
+      "BB-1180"
+    ]
   },
   {
     "id": "gift-sets",
     "name": "Copper Gift Sets",
     "slug": "gift-sets",
     "range": "BB-1181 to BB-1191",
-    "count": 11
+    "count": 11,
+    "showcase": [
+      "BB-1181",
+      "BB-1183",
+      "BB-1186",
+      "BB-1189",
+      "BB-1191"
+    ]
   }
 ]

@@ -14,7 +14,9 @@ def enhance(root,site,products,categories):
  for f in root.rglob('*.html'):
   text=f.read_text().replace('<h4>','<h2 class="footer-heading">').replace('</h4>','</h2>').replace('aria-label="BB Copper home"','').replace('aria-label="Chat on WhatsApp"','aria-label="Chat with us on WhatsApp"');path='/'+str(f.relative_to(root).parent).replace('\\','/')+'/'
   if path=='/./' :path='/'
-  title=html.unescape(re.search(r'<title>(.*?)</title>',text).group(1)).split(' | ')[0]
+  m=re.search(r'<title>(.*?)</title>',text)
+  if not m: continue
+  title=html.unescape(m.group(1)).split(' | ')[0]
   product=next((p for p in products if path=='/products/'+p['code'].lower()+'/'),None)
   description=(f'Enquire about {product["name"]} ({product["code"]}) in {product["categoryName"]} from BB Copper Products, Mathura. Request specifications and a quote on WhatsApp.' if product else f'{title} at BB Copper Products, Mathura. Explore the copper ware catalogue and contact our manufacturing and export team directly on WhatsApp.')
   text=re.sub(r'<meta name="description" content="[^"]*">','<meta name="description" content="'+esc(description)+'">',text)
